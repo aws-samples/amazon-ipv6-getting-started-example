@@ -1,11 +1,6 @@
-## My Project
+## IPv6 Getting Started Examples
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This project provides a reference AWS CloudFormation template which may be used to build out a dual-stack VPC.  In addition we have created a "cheat-sheet" for IPv6 on AWS, which will help users understand how they may leverage IPv6.
 
 ## Security
 
